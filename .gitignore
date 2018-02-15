@@ -1,0 +1,9 @@
+# MATLAB:
+*.m~
+
+# PYTHON:
+*.py~
+*.pyc
+
+# EMACS:
+\#*#

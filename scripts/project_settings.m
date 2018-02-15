@@ -1,6 +1,14 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Setup for high frequency decoding project %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Project settings for MATLAB files
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Paths, file names, and variables shared between MATLAB scripts. Also takes
+% care of loading FieldTrip.
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 % Toolbox paths
 fieldtrip_path = '/path/to/fieldtrip/';

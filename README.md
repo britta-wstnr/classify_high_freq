@@ -1,3 +1,4 @@
+
 # Across-subjects classification of stimulus modality from human MEG high frequency activity
 
 Britta U. Westner, Sarang S. Dalal, Simon Hanslmayr, & Tobias Staudigl
@@ -42,7 +43,7 @@ Data processing is completely done in MATLAB, using [FieldTrip](https://github.c
 
 ### Classification
 Decoding analysis is completely done in Python, using [scikit-learn](https://github.com/scikit-learn/scikit-learn).
-* `decode_high_freq_activity.py`   classification using random forests
+* `decode_high_freq_RF.py`   classification using random forests
 * `decode_high_freq_SVM.py`   classification using SVMs for comparison
 * `decode_within_subjects.py`  supplementary analysis within subjects
 

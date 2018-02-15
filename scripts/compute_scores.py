@@ -1,7 +1,7 @@
 """Compute classifier outcomes.
 
 Compute the mean accuracy across folds, the confusion matrix, and the average
-variable importances. Store output as mat files to be able to visualize them
+variable importances. Store output as .mat files to be able to visualize them
 with MATLAB/FieldTrip.
 
 For SVM analysis: change file names.

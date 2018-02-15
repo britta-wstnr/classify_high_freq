@@ -1,4 +1,10 @@
-"""Using Random Forest to classify high frequency activity across subjects.
+"""Classify high frequency activity across subjects using random forest.
+
+Use random forest to classify source space high frequency activity across
+subjects.
+
+AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+LICENCE: BSD 3-clause
 """
 
 # imports

@@ -1,3 +1,8 @@
+"""Compute Fisher's exact test to compare classifiers.
+
+AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+LICENCE: BSD 3-clause
+"""
 import scipy.stats as stats
 
 # hits and misses split as follows:

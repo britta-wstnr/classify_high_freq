@@ -1,3 +1,15 @@
+"""Compute classifier outcome for within subjects classification.
+
+Compute the mean accuracy across subjects, preliminary plot single subjects'
+accuracies. Save accuracies as .mat file to visualize them in MATLAB.
+
+Note: for supplementary material.
+
+AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+LICENCE: BSD 3-clause
+"""
+
+
 import numpy as np
 import os.path as op
 import matplotlib.pyplot as plt

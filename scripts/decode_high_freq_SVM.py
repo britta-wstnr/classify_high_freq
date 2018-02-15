@@ -1,6 +1,13 @@
-"""Using Random Forest to classify high frequency activity across subjects.
-"""
+"""Classify high frequency activity across subjects using SVM.
 
+Use SVM to classify source space high frequency activity across subjects.
+
+Note: Change kernel parameter in svm.SVC() to either compute a linear SVM
+(kernel='linear') or an SVM with radial basis function kernel (default).
+
+AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+LICENCE: BSD 3-clause
+"""
 # imports
 import os
 import random

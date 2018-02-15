@@ -1,6 +1,13 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Plot underlying high frequency activity %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plot underlying gamma power
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Compute the average gamma power across subjects and plot the difference
+% between auditory and visual trials (FIGURE 4).
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % load project settings from file
 project_settings

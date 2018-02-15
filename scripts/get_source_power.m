@@ -1,6 +1,15 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Compute gamma power in source space %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Compute source power in source space.
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Source reconstruct time series for each subject with an LCMV beamformer and
+% estimate gamma power for every voxel across different frequency bands and
+% time points.
+% Save data as matrix suited for decoding analyses in Python.
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % load project settings from file
 project_settings

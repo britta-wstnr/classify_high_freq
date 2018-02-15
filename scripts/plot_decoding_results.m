@@ -1,6 +1,14 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Plot the results from the Random Forest classification %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plot results from the random forest classification
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Plot confusion matrices and accuracies across folds (FIGURE 1),  variable
+% importances overlayed on brain (FIGURE 2), and time-frequency plots of
+% specific voxels (FIGURE 3).
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % load project settings from file
 project_settings

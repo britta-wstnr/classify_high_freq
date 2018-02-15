@@ -1,6 +1,13 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Make dummy structures to fill with RF output for plotting %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Make dummy structures
+% %%%%%%%%%%%%%%%%%%%%%
+%
+% Make dummy Fieldtrip structures for frequency and source space data to use
+% for subsequent plotting of classifier outputs.
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % make a fake structure for TFR data
 % a lot of this will be overwritten before plotting, this is to provide a

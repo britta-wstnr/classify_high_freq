@@ -1,6 +1,15 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Plot single subject accuracies %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plot results from within subject classification
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Plot individual test accuracies for within subject classification (split-
+% half cross-validation) and their respective corrected chance levels
+% (SUPPLEMENTARY FIGURE 1).
+%
+% AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
+% LICENCE: BSD 3-clause
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 project_settings
 

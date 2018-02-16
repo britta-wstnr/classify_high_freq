@@ -1,4 +1,3 @@
-
 # Across-subjects classification of stimulus modality from human MEG high frequency activity
 
 Britta U. Westner, Sarang S. Dalal, Simon Hanslmayr, & Tobias Staudigl
@@ -60,5 +59,10 @@ Evaluation of the results is done in Python, plotting is done in MATLAB.
 
 ## Data
 
-The data and further information are available at [Open Science Framework]().
+The data and further information will soon be available at [Open Science Framework](https://osf.io/).
 
+## Dependencies
+* FieldTrip
+* numpy
+* scipy
+* scikit-learn

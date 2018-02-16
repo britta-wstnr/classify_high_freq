@@ -1,7 +1,7 @@
 % Make dummy structures
 % %%%%%%%%%%%%%%%%%%%%%
 %
-% Make dummy Fieldtrip structures for frequency and source space data to use
+% Make dummy FieldTrip structures for frequency and source space data to use
 % for subsequent plotting of classifier outputs.
 %
 % AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>

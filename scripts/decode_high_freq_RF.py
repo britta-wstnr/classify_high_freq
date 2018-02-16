@@ -1,7 +1,7 @@
 """Classify high frequency activity across subjects using random forest.
 
-Use random forest to classify source space high frequency activity across
-subjects.
+Use random forest to classify source space high frequency activity, cross-
+validation is done across subjects.
 
 AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 LICENCE: BSD 3-clause

@@ -2,7 +2,7 @@
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % Plot comparison of test accuracies of across-subjects classification between
-% random forest classification and SVM models (FIGURE 4).
+% random forest algorithm and SVM models (FIGURE 5).
 %
 % AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 % LICENCE: BSD 3-clause

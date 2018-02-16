@@ -1,7 +1,8 @@
 """Compute classifier outcome for within subjects classification.
 
-Compute the mean accuracy across subjects, preliminary plot single subjects'
-accuracies. Save accuracies as .mat file to visualize them in MATLAB.
+Compute the mean accuracy across subjects, and make a (preliminary) plot of the
+single subjects' accuracies. Save accuracies as .mat file to visualize them in
+MATLAB.
 
 Note: for supplementary material.
 

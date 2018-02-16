@@ -4,10 +4,10 @@
 % Source reconstruct time series for each subject with an LCMV beamformer and
 % estimate gamma power for every voxel across different frequency bands and
 % time points.
-% The data is split before beamforming into two halves, computing two different
-% sets of spatial filters for every subject for later split-half cross
+% The data is split into two halves before beamforming, computing two different
+% sets of spatial filters for every subject, enabling split-half cross-
 % validation.
-% Save data as matrix suited for decoding analyses in Python.
+% Data is saved as a matrix suited for decoding analyses in Python.
 %
 % AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 % LICENCE: BSD 3-clause

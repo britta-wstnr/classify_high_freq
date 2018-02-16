@@ -2,7 +2,7 @@
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % Paths, file names, and variables shared between MATLAB scripts. Also takes
-% care of loading FieldTrip.
+% care of adding FieldTrip to the MATLAB path.
 %
 % AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 % LICENCE: BSD 3-clause

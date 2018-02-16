@@ -4,10 +4,10 @@ Use random forest to classify source space high frequency activity within
 subjects.
 
 Note: for supplementary material.
+
 AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 LICENCE: BSD 3-clause
 """
-
 # imports
 import numpy as np
 import scipy.io as io

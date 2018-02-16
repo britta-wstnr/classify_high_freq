@@ -5,7 +5,6 @@ Paths, file names, and variables shared between Python scripts.
 AUTHOR: Britta U. Westner <britta.wstnr[at]gmail.com>
 LICENCE: BSD 3-clause
 """
-
 # path setup:
 source_dir = '/path/to/sourcespace/data/'
 results_dir = 'path/to/results/'

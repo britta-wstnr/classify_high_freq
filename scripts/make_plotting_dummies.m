@@ -10,7 +10,7 @@
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % make a fake structure for TFR data
-% a lot of this will be overwritten before plotting, this is to provide a
+% a lot of this will be overwritten before plotting, this is just to provide a
 % shape to fill things in.
 num_gridpoints = sum(template_grid.inside);  %  number of grid points
 
@@ -27,7 +27,7 @@ data_dummy.dimord = 'chan_freq_time';
 
 % make fake source data structure
 % crucial part will be overwritten with meaningful data
-% based on the template grid
+% this structure is based on the template grid (MNI pos)
 source_dummy.freq =  NaN;
 source_dummy.dim = template_grid.dim;
 source_dummy.inside = template_grid.inside;

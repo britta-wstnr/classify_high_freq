@@ -14,6 +14,6 @@ datafile = 'pow_gamma.mat'
 datafile_single = 'pow_gamma_singlesubj_fold{}.mat'
 
 # subjects list
-subjects = ('VP01', 'VP02', 'VP03', 'VP04', 'VP05', 'VP06', 'VP08', 'VP09',
-            'VP10', 'VP11', 'VP12', 'VP13', 'VP18', 'VP20', 'VP22', 'VP23',
-            'VP25', 'VP26', 'VP115', 'VP117')
+subjects = ('S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09',
+            'S10', 'S11', 'S12', 'S13', 'S14', 'S15', 'S16', 'S17', 'S18',
+            'S19', 'S20')

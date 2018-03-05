@@ -27,7 +27,7 @@ discriminative gamma activity in time, frequency, and space.
 
 ## Repository
 
-This repository contains the data analysis scripts for [Westner et al., 2017 (preprint, not peer-reviewed)](https://www.biorxiv.org/content/early/2017/10/12/202424), currently submitted.
+This repository contains the data analysis scripts for [Westner et al., 2017 (preprint, not peer-reviewed)](https://www.biorxiv.org/content/early/2017/10/12/202424), currently in press.
 
 The data analysis scripts are organized as follows:
 
@@ -59,7 +59,7 @@ Evaluation of the results is done in Python, plotting is done in MATLAB.
 
 ## Data
 
-The data and further information will soon be available at [Open Science Framework](https://osf.io/).
+The data is available at [Open Science Framework](https://osf.io/m25n4/).
 
 ## Dependencies
 * FieldTrip

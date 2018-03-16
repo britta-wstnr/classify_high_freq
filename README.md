@@ -27,7 +27,7 @@ discriminative gamma activity in time, frequency, and space.
 
 ## Repository
 
-This repository contains the data analysis scripts for [Westner et al., 2017 (preprint, not peer-reviewed)](https://www.biorxiv.org/content/early/2017/10/12/202424), currently in press.
+This repository contains the data analysis scripts for [Westner et al., 2018, PLOS Comp Biol](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005938).
 
 The data analysis scripts are organized as follows:
 
